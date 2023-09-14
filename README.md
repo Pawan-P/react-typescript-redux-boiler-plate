@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React Typescript Redux
+
+React typescript redux boiler plate simply clone and start coding !
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
